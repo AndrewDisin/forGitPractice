@@ -1,2 +1,2 @@
 # forGitPractice
-Pero for Git practice 2023
+Pero for Git practice. Something new!
