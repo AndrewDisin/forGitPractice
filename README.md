@@ -1,2 +1,2 @@
 # forGitPractice
-Pero for Git practice
+Pero for Git practice. Something new!
